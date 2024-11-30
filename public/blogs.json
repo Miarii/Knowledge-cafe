@@ -1,0 +1,43 @@
+[
+    {
+      "id": "001",
+      "cover": "https://i.ibb.co.com/KF9jC1c/1.jpg",
+      "title": "The Enigma of Time",
+      "author": "Robert Lee",
+      "author_img": "https://i.ibb.co.com/WvNyp2t/boy1.jpg",
+      "posted_date": "2024-11-01",
+      "reading_time": 5,
+      "hashtags": ["#science", "#fiction", "#timeTravel"]
+    },
+    {
+      "id": "002",
+      "cover": "https://i.ibb.co.com/pj2qcqx/2.png",
+      "title": "Gardens of Serenity",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co.com/WvNyp2t/boy2.jpg",
+      "posted_date": "2024-11-15",
+      "reading_time": 8,
+      "hashtags": ["#gardening", "#nature", "#wellness"]
+    },
+    {
+      "id": "003",
+      "cover": "https://i.ibb.co.com/fGdwRfL/3.png",
+      "title": "The Art of Minimalism",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co.com/x70nHgf/girl2.jpg",
+      "posted_date": "2024-11-20",
+      "reading_time": 6,
+      "hashtags": ["#minimalism", "#lifestyle", "#productivity"]
+    },
+    {
+      "id": "004",
+      "cover": "https://i.ibb.co.com/L5xspQg/4.jpg",
+      "title": "Culinary Journeys",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co.com/py75DwF/girl1.jpg",
+      "posted_date": "2024-11-25",
+      "reading_time": 10,
+      "hashtags": ["#cooking", "#travel", "#food"]
+    }
+  ]
+  
